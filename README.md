@@ -1,4 +1,4 @@
-# robotics-description & video to my robot
+# robot description & video showing it`s movement
 
 my robot is simple pick & place robot arm mechanism
 
